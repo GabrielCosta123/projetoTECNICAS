@@ -11,3 +11,6 @@ Este é o repositório de onde foi retirado o código: https://github.com/lunacy
 O criador deste jogo utilizou código de outros utilizadores que estão devidamente identificados em comentários nos locais onde foram utilizados.
 
 O game developer utilizou diversas classes sendo essas organizadas por pastas o que torna a interpretação do código mais fácil, também criou dois projetos onde o primeiro é apenas o executável do jogo e o segundo é a framework onde estão todas a funções e métodos que são utilizados pelo jogo.
+
+
+![image](https://user-images.githubusercontent.com/120459962/235976955-de8fb790-99ad-4868-84c2-27fab506cd39.png)
