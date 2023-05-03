@@ -23,3 +23,21 @@ Também podemos ver a várias pastas que incluem aspetos importantes do jogo com
 
 ![image](https://user-images.githubusercontent.com/120459962/235979493-be4660fa-88d4-4126-8861-57989091aa37.png)
 
+A seguir várias prints do jogo.
+
+![image](https://user-images.githubusercontent.com/120459962/235980043-f0c37c10-8f41-4965-b5c3-5f8b906e885a.png)
+
+![image](https://user-images.githubusercontent.com/120459962/235980180-612036cc-aea0-45ec-a5ef-85a872fe084e.png)
+
+Definições de Jogo
+
+![image](https://user-images.githubusercontent.com/120459962/235980569-ee0a8302-a9e5-4591-bd60-c815fd02c19a.png)
+
+Pontuações
+
+![image](https://user-images.githubusercontent.com/120459962/235980681-8a2b13ab-8850-455d-b638-cadecf8ea7a3.png)
+
+Turnos do Jogador
+
+![image](https://user-images.githubusercontent.com/120459962/235980857-8316558e-1da8-46cd-a9a0-675dea42cd75.png)
+
