@@ -18,3 +18,8 @@ O game developer utilizou diversas classes sendo essas organizadas por pastas o 
 Primeiro projeto: `Minesweeper.DesktopGL`.
 
 Segundo projeto: `Minesweeper.Framework`.
+
+Também podemos ver a várias pastas que incluem aspetos importantes do jogo como as telas de menu, etc.
+
+![image](https://user-images.githubusercontent.com/120459962/235979493-be4660fa-88d4-4126-8861-57989091aa37.png)
+
