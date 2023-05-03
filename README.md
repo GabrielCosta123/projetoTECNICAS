@@ -14,3 +14,7 @@ O game developer utilizou diversas classes sendo essas organizadas por pastas o 
 
 
 ![image](https://user-images.githubusercontent.com/120459962/235976955-de8fb790-99ad-4868-84c2-27fab506cd39.png)
+
+Primeiro projeto: `Minesweeper.DesktopGL`.
+
+Segundo projeto: `Minesweeper.Framework`.
